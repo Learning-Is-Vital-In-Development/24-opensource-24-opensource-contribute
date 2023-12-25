@@ -18,7 +18,7 @@
   - 이본행
   - 박시준
   - 이인규
-  - 이용혁
+  - [이용혁](https://github.com/yonghyeokrhee)
   - [이용재](https://github.com/dididy)
 
 ## 핵심 스터디 결과물
